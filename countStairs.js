@@ -1,3 +1,5 @@
+
+//The function name is cliffhangers which is crazy, I Know. Don't fucking Judge
 const cliffhangers = (target, clff) => {
     if (target < 0) return 0;  
     if (target === 0) return 1;
